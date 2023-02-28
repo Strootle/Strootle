@@ -6,4 +6,4 @@
 
 ### `My Projects`
 - 🤖 [DJ Tekky](https://github.com/Strootle/DJ-Tekky) Discord Music Bot in JavaScript (Currently Down)
-- [Icarus: Before the Sun](https://github.com/Strootle/Icarus-Before-the-Sun) 3D Platformer Built in C# (View README file)
+- 🎮 [Icarus: Before the Sun](https://github.com/Strootle/Icarus-Before-the-Sun) 3D Platformer Built in C# (View README file)
