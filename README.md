@@ -7,5 +7,5 @@
 
 ### `My Projects`
 - [DJ Tekky](https://github.com/Strootle/DJ-Tekky) Discord Music Bot in JavaScript using Discord API (Outdated)
-- [Follow Me]() Honours Project using Augmented Reality to geo-locate exact positions of photos to direct the user
+- [Follow Me](https://drive.google.com/drive/folders/1FZYRZwtEY4FwnRRdfUu7li9rBVG90abT?usp=drive_link) Honours Project using Augmented Reality to geo-locate exact positions of photos to direct the user
 - [IntelliCrop](https://github.com/intellicrop) Group Project - MVP for a smart greenhouse incorporting ML and full stack development - Private Repo, access upon request   
