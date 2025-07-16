@@ -1,9 +1,11 @@
 ## `Greetings`
-- Hi, my name is Harrison aka Strootle
-- I am a BCU student, studying a BSc (Hons) in Computer Science.
-- Aside from coding and CS, I enjoying playing games and competeting in tourneys.
-- I aspire to develop my skills to become a Software Developer although my path is still uncertain.
-- Visit my [website](https://hjrtech.co.uk)
+- Hi, my name is Harrison Ratcliffe
+- I am a BCU Graduate, recieving a First Degree BSc (Hons) Computer Science.
+- Aside from coding and CS, my interests are gaming and driving.
+- I have a deep passion for cars, tinkering with my own both mechanical and software (OBD modifications)
+- I aspire to develop my skills further to become more profiecient in the sector
 
 ### `My Projects`
-- 🤖 [DJ Tekky](https://github.com/Strootle/DJ-Tekky) Discord Music Bot in JavaScript using Discord API (Outdated)
+- [DJ Tekky](https://github.com/Strootle/DJ-Tekky) Discord Music Bot in JavaScript using Discord API (Outdated)
+- [Follow Me]() Honours Project using Augmented Reality to geo-locate exact positions of photos to direct the user
+- 
