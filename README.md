@@ -6,4 +6,4 @@
 - Visit my [website](https://hjrtech.co.uk)
 
 ### `My Projects`
-- 🤖 [DJ Tekky](https://github.com/Strootle/DJ-Tekky) Discord Music Bot in JavaScript (Outdated)
+- 🤖 [DJ Tekky](https://github.com/Strootle/DJ-Tekky) Discord Music Bot in JavaScript using Discord API (Outdated)
