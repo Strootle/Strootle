@@ -1,11 +1,13 @@
-## `Greetings`
-- Hi, my name is Harrison Ratcliffe
-- I am a BCU Graduate, recieving a First Degree BSc (Hons) Computer Science.
-- Aside from coding and CS, my interests are gaming and driving.
-- I have a deep passion for cars, tinkering with my own both mechanical and software (OBD modifications)
-- I aspire to develop my skills further to become more profiecient in the sector
+### `Harrison Ratcliffe`
+
+Current Assistant Store Manager at Starbucks
 
 ### `My Projects`
 - [DJ Tekky](https://github.com/Strootle/DJ-Tekky) Discord Music Bot in JavaScript using Discord API (Outdated)
 - [Follow Me](https://drive.google.com/drive/folders/1FZYRZwtEY4FwnRRdfUu7li9rBVG90abT?usp=drive_link) Honours Project using Augmented Reality to geo-locate exact positions of photos to direct the user
-- [IntelliCrop](https://github.com/intellicrop) Group Project - MVP for a smart greenhouse incorporting ML and full stack development - Private Repo, access upon request   
+- [IntelliCrop](https://github.com/intellicrop) Group Project - MVP for a smart greenhouse incorporting ML and full stack development - Private Repo, access upon request
+- [DailyQuest-Automation](https://github.com/Strootle/dailyQuest-automator) Chrome Extension for Daily Login rewards, using Extension Framework, Automation, Scheduling, etc...
+
+### `Profiles`
+- [LinkedIn](https://www.linkedin.com/in/harrison-j-ratcliffe)
+- [GitHub](https://github.com/Strootle)
